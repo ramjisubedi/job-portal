@@ -1,1 +1,1 @@
-# job-portal
+# Simple job-portal application
